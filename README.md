@@ -264,9 +264,10 @@ Should I invest in Reliance?
 
 # 👨‍💻 Contributors
 
+- Ishant (@ISHANTGARG2211) — Frontend & integration with backend
 - Panshul (@crazyluhsnap) — Backend Development and debugging
 - Vertika (@singhvertika119)  — AI+LLM and integration with backend
-- Vinay (@vinay-271) & Ishant — Frontend & integration with backend
+- Vinay (@vinay-271) integration with backend & Testing
 
 ---
 
